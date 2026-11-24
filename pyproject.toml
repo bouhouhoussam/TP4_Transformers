@@ -1,0 +1,23 @@
+[project]
+name = "tp4-transformers"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "bouhouhoussam", email = "bouhouhoussam1@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.4.6",
+    "torch>=2.15.0",
+    "transformers>=5.24.1",
+]
+
+[project.scripts]
+tp4-transformers = "tp4_transformers:main"
+
+[build-system]
+requires = ["uv_build>=0.13.0,<0.14.0"]
+build-backend = "uv_build"
