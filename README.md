@@ -11,7 +11,7 @@ Comparaison de RNN, LSTM et Transformer pour prédire une série temporelle sin(
 - [x] Étape 3 : Modèle LSTM
 - [x] Étape 4 : Modèle Transformer
 - [x] Étape 5 : Exemple GPT (génération de texte)
-- [ ] Étape 6 : Exemple BERT (mot masqué)
+- [x] Étape 6 : Exemple BERT (mot masqué)
 
 ## Installation
     uv sync
