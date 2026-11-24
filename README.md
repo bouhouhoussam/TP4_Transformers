@@ -7,7 +7,7 @@ Comparaison de RNN, LSTM et Transformer pour prédire une série temporelle sin(
 ## Progression
 - [x] Étape 0 : Initialisation du projet
 - [x] Étape 1 : Génération du dataset sin(x) en séquences de 10
-- [ ] Étape 2 : Modèle RNN
+- [x] Étape 2 : Modèle RNN
 - [ ] Étape 3 : Modèle LSTM
 - [ ] Étape 4 : Modèle Transformer
 - [ ] Étape 5 : Exemple GPT (génération de texte)
